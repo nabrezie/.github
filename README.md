@@ -1,1 +1,1 @@
-# .github
+# Register Kultúrnych Subjektov
