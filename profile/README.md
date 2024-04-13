@@ -2,9 +2,8 @@
 
 [Backend](https://github.com/nabrezie/backend)
 [Forntend Public](https://github.com/nabrezie/verejny-register)
-[Plan](https://github.com/orgs/nabrezie/projects/1/views/1)
-
-
+## Diagrami
+![Server](https://github.com/nabrezie/.github/blob/main/profile/Server.png)
 
 
 ## Plán do 30 týždňov
