@@ -7,10 +7,10 @@
 ![Server](https://github.com/nabrezie/.github/blob/main/profile/Server.png)
 
 ### Rozpis Celeho Projektu
-![]()
+![](Projekt)[https://github.com/nabrezie/.github/blob/main/profile/Full%20System.png]
 
 ### Kontaineri
-![]()
+![Kontaineri](https://github.com/nabrezie/.github/blob/main/profile/Containers.png)
 
 ## Plán do 30 týždňov
 ### Počet ludí:
