@@ -5,6 +5,8 @@
 [Plan](https://github.com/orgs/nabrezie/projects/1/views/1)
 
 
+
+
 ## Plán do 30 týždňov
 ### Počet ludí:
 - Backend developer(Skúsenosť s dockerom, kuberneties a cloudovími servismi)
@@ -15,16 +17,16 @@
 ### Plán Pre Backend:
 | Týždeň| Backend 1 | Backend 2 | Frotend | Data Engineer |
 |-------|--------------------------------------|----------| ---------- | ----------
-| 1.    | Implentacia servera                  | Data     |
-| 2.    | Komunikaciu s databazou| Data        |
+| 1.    | Implentacia servera                  | Dockeru a VM    |
+| 2.    | Komunikaciu s databazou| Data        | Rozdelenie Kontainerov 
 | 3.    | Response Reques Haddling z forntedu  | Data     |
 | 4.    | Zapisovanie do databazi              |
-| 5.    | Rest Api pre neverejnu čast          |
-| 6.    | Test Rest Api pre neverejnu časť
-| 7.    | 
-| 8.    |
-| 9.    | 
-| 10.   |
+| 5.    |        |
+| 6.    |     |
+| 7.    | Rest Api pre verejnú časť            |
+| 8.    | Test Rest Api pre verejnú časť       |
+| 9.    | Rest Api pre neverejnu časť   
+| 10.   | Test Rest Api pre neverejnu časť 
 | 11.   |
 | 12.   |
 | 13.   |
