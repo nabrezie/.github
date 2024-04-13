@@ -2,10 +2,15 @@
 
 [Backend](https://github.com/nabrezie/backend)
 [Forntend Public](https://github.com/nabrezie/verejny-register)
-[Plan](https://github.com/orgs/nabrezie/projects/1/views/1)
+## Diagrami
+### Django Server
+![Server](https://github.com/nabrezie/.github/blob/main/profile/Server.png)
 
+### Rozpis Celeho Projektu
+![]()
 
-
+### Kontaineri
+![]()
 
 ## Plán do 30 týždňov
 ### Počet ludí:
