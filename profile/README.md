@@ -3,12 +3,20 @@
 [Backend](https://github.com/nabrezie/backend)
 [Forntend Public](https://github.com/nabrezie/verejny-register)
 
-## Diagrami
+## Riešenie
+Scrapperi a Crawlleri zťahujú dáta z obchodného registru a štatistyckého úradu
+Fistat api ztiahne dáta z Finstat API
+Filter prefiltruje dáta a zaklade AI analyzéru pridá tagy podľa description
+Parser rozparusuje Json do  Databázi
+Rest Apiny predávajú riešenie pre Verjnú a Neverejnú časť
+
+## Diagrami a Rozpis Riešenia
 ### Django Server
 ![Server](https://github.com/nabrezie/.github/blob/main/profile/Server.png)
 
 ### Rozpis Celeho Projektu
 ![Projekt](https://github.com/nabrezie/.github/blob/main/profile/Full%20System.png)
+
 
 ### Kontaineri
 ![Kontaineri](https://github.com/nabrezie/.github/blob/main/profile/Containers.png)
